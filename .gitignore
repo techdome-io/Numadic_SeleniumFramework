@@ -10,6 +10,7 @@ target/
 
 # TestNG specific
 test-output/
+screenshots/
 
 # WebDriver binaries
 webdriver/
