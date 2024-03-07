@@ -19,33 +19,19 @@ Make sure you have the following installed:
 ## Project Structure
 
 - selenium-java-testng-extent-report
-
   - src
-
     - test
-
       - java
+        - tests
+          - pageObjects
+          - testBase
+          - testCases
+          - utilities
 
-        - your.package.name
-
-          - tests
-
-            - pageObjects
-
-            - testBase
-
-            - testCases
-
-            - utilities
-
-          - resources
-
+        - resources
             - config file
-
   - pom.xml
-
   - task.xml
-
   - README.md
 
 
