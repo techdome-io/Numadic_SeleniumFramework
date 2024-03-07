@@ -18,21 +18,36 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-│
-├── src
-│   └── test
-│   └── java
-│   ├── tests
-│   │   ├── pageObjects
-│   │   ├── testBase
-│   │   ├── testCases
-│   │   └── utilities
-│   └── resources
-│   └── config file
-│
-├── pom.xml
-├── task.xml
-└── README.md
+- selenium-java-testng-extent-report
+
+  - src
+
+    - test
+
+      - java
+
+        - your.package.name
+
+          - tests
+
+            - pageObjects
+
+            - testBase
+
+            - testCases
+
+            - utilities
+
+          - resources
+
+            - config file
+
+  - pom.xml
+
+  - task.xml
+
+  - README.md
+
 
 # Getting Started
 1. Clone the repository:
