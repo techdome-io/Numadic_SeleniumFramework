@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-- selenium-java-testng-extent-report
+- Numadic_SeleniumFramework
   - src
     - test
       - java
