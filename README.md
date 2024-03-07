@@ -18,19 +18,17 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-selenium-java-testng-extent-report
 │
 ├── src
 │   └── test
-│       └── java
-│           └── your.package.name
-│               ├── tests
-│               │   └── pageObjects
-│               │   └── testBase
-│               │   └── testCases
-|               |   └── utilities
-│               └── resources
-│                   └── config file
+│   └── java
+│   ├── tests
+│   │   ├── pageObjects
+│   │   ├── testBase
+│   │   ├── testCases
+│   │   └── utilities
+│   └── resources
+│   └── config file
 │
 ├── pom.xml
 ├── task.xml
