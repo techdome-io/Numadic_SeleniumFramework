@@ -1,0 +1,52 @@
+# Maven specific
+target/
+*.iml
+.idea/
+
+# Eclipse specific
+.settings/
+.classpath
+.project
+
+# TestNG specific
+test-output/
+
+# WebDriver binaries
+webdriver/
+
+# TestNG suite files
+testng.xml
+
+# Test reports
+extent-reports/
+
+# Logs
+logs/
+
+# ChromeDriver and GeckoDriver logs
+chromedriver.log
+geckodriver.log
+
+# Test data files
+test-data/
+
+# IDE files
+*.classpath
+*.project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA files
+.idea/
+
+# Gradle specific
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Selenium Grid files
+grid/
